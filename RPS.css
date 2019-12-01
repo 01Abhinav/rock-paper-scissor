@@ -7,11 +7,11 @@
     font-style: 'light';
 }
 body{
-    background: #2e3c4d; /*For browsers that don't support gradiients*/
+    background: #2e3c4d; /*For browsers that don't support gradients*/
     background-image: radial-gradient(#2e3c4d 50%, #0a1016 100%);
 }
 header h1{
-    color: #000000;
+    color: #000fff;
     background: #ffffff;
     font-weight: 900;
     background-image: linear-gradient(#ffffff,#ddd);
